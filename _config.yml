@@ -13,7 +13,7 @@ baseurl: ""    # the subpath of your site, "/blog"
 url: ""
 
 # footer 
-description: "我是一名来自广州的高中生，擅长魔方、乒乓球、物理、音乐伴奏和安排交通路线。我也是游戏模组开发组织ECMSC的会长，目前正在开发OpenBVE的一些模组。"
+description: 我是一名来自广州的高中生，擅长魔方、乒乓球、物理、音乐伴奏和安排交通路线。我也是游戏模组开发组织ECMSC的会长，目前正在开发OpenBVE的一些模组。<br>
 
 favo: "欢迎来到我的个人网站！"
 descrpt: "在这里，我会分享我的开发经验、学习经验和生活点滴在博客上。"
