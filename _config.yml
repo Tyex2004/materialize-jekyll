@@ -9,7 +9,7 @@ googleplus_username: google
 head-title: Tyex的个人网站
 title: Tyex的个人网站
 
-baseurl: "/materialize-jekyll"    # the subpath of your site, "/blog"
+baseurl: ""    # the subpath of your site, "/blog"
 url: ""
 
 # footer 
