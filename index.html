@@ -20,7 +20,7 @@ layout: default
         <span class="grey-text right">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
-        <button data-target="{{ post.id | remove: '%' | replace: '/', '_' }}" class="waves-effect waves-light btn modal-trigger" style="padding: 0 1.2rem;">overview<i class="mdi mdi-send right"></i></button>
+        <button data-target="{{ post.id | remove: '%' | replace: '/', '_' }}" class="waves-effect waves-light btn modal-trigger" style="padding: 0 1.2rem;">点击查看<i class="mdi mdi-send right"></i></button>
 
         <div id="{{ post.id | remove: '%' | replace: '/', '_' }}" class="modal modal-fixed-footer">
           <div class="modal-content">
@@ -28,8 +28,8 @@ layout: default
             <p>{{ post.excerpt }}</p>
           </div>
           <div class="modal-footer">
-            <a href="{{ post.url | prepend: site.baseurl }}" class="waves-effect btn-flat grey-text text-darken-4 right">read more</a>
-            <a class="modal-action modal-close waves-effect btn-flat grey-text text-darken-4 left">close</a>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="waves-effect btn-flat grey-text text-darken-4 right">详细阅读</a>
+            <a class="modal-action modal-close waves-effect btn-flat grey-text text-darken-4 left">关闭</a>
           </div>
         </div>
       </li>
@@ -44,7 +44,7 @@ layout: default
     <span class="btn disabled left"><i class="mdi mdi-chevron-left white-text"></i></span>
     {% endif %}
 
-    <div class="waves-effect btn-flat lower-case page">Page: <span class="pink-text">{{ paginator.page }}</span> of {{ paginator.total_pages }}</div>
+    <div class="waves-effect btn-flat lower-case page">第 <span class="pink-text">{{ paginator.page }}</span> 页&emsp;&emsp;共 {{ paginator.total_pages }} 页</div>
 
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="waves-effect waves-light btn cyan right"><i class="mdi mdi-chevron-right white-text"></i></a>
