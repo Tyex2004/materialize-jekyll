@@ -1,81 +1,28 @@
-Materialize - jekyll
+我的个人网站的源码
 ==============
 
 
-## Introducton
+## 写在前面
 
-This jekyll theme is based on [materialize](http://materializecss.com).
-(NOTE: this theme is only made for my own, but you can modify it freely.)
+这个网站是一个基于[materialize](http://materializecss.com)的[Jekyll](https://jekyllcn.com/)主题的网站
 
-[Open demo](https://mumuxme.github.io/materialize-jekyll/)
+[原页的链接](https://mumuxme.github.io/materialize-jekyll/)
 
-
-## Getting start
-
-#### Install
-
-You may need some dev headers, for debian/linux, just run:
-
-```
-# apt-get install liblzma-dev zlib1g-dev
-```
-
-(Other dependencies may also needed.)
-
-```
-$ git clone https://github.com/mumuxme/materialize-jekyll
-$ cd materialize-jekyll
-$ bundle install
-```
-
-#### Run
-
-1. Modify `_config.yml`, `about.md` and other(whatever you need).
-2. You can add a `favicon.ico` file in the project root directory.
-3. If you want to use google analytics, add your `google-analytics.js` into `js` directory.
-
-Then:
-
-```
-$ bundle exec jekyll s
-
-# or start with draft
-$ bundle exec jekyll s --drafts
-```
-
-## Or start with docker
-
-```
-cd materialize-jekyll
-
-# export GEM_MIRROR=mirror.https://rubygems.org
-export GEM_MIRROR='Your-ruby-gem-mirror'
-
-make build
-make run
-```
+在[zbx1425](https://github.com/zbx1425)和[Hao_Tian22](https://github.com/HaoTian22)两位大佬的帮助下实现了网站的面世
 
 
-## Other
+## 浏览贴士
 
-#### Emoji
+#### 个人网站以博客为主要板块
 
-You can use GitHub-flavored emoji. See [emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+几乎可以说整个网站都是博客了。
 
-#### TODO
+在博客主页中，每一个“框框”就是一条博文。点击“点击查看”后，您可以马上读到文章的第一自然段。当您再点击“详细阅读”后，您就可以读到详细的内容哦。
 
-- Add comment. (???)
-- Add options to choose self host or cdn.
+博文分为几个类别：学习经验、游戏开发、生活经验、生活点滴、旅行时光、小说更新，在归档处即可找到分类
 
+#### 个人网站可以链接关于我的很多平台
 
-## License
+我的很多东西都有写到在我的个人网站上。像我在Bilibili、Facebook、GitHub、QQ、Outlook、等平台的社交帐号。
 
-[GNU GPL v3](http://www.gnu.org/licenses/).
-
-Others:
-
-- jquery: <https://jquery.com>
-- materialize: <http://materializecss.com>
-- material-scrolltop: [bartholomej/material-scrolltop](https://github.com/bartholomej/material-scrolltop)
-- material design icon: [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) or <https://materialdesignicons.com/getting-started>
-- GitHub-flavored emoji plugin: [jemoji](https://github.com/jekyll/jemoji)
+因此，我的个人网站可以作为继Outlook邮箱后的又一我的网民身份的代表。
