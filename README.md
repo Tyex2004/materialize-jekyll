@@ -6,7 +6,7 @@
 
 这个网站是一个基于[materialize](http://materializecss.com)的[Jekyll](https://jekyllcn.com/)主题的网站
 
-[原页的链接](https://mumuxme.github.io/materialize-jekyll/)
+[个人网站的快速链接](http://www.tyex.ink/)
 
 在[zbx1425](https://github.com/zbx1425)和[Hao_Tian22](https://github.com/HaoTian22)两位大佬的帮助下实现了网站的面世
 
