@@ -2,10 +2,10 @@
 layout: post
 title: 我的第一个Jekyll博客
 date: 2021-06-05
-category: "readme"
-tags: [生活点滴,开发经验]
+category: "生活点滴"
+tags: [电脑,生活]
 author: Tyex
-comment: false
+comment: true
 ---
 
 我的第一个Jekyll网页终于做出来啦！

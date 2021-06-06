@@ -4,9 +4,13 @@ title: 关于
 permalink: /about/
 ---
 
+```
+![图片显示失败](tyexhead.png)
+```
+
 #### 最常用网名
 
-Tyex（读音音标：/'taiɪks/，近似粤语“泰益士”）
+Tyex（读音音标：/'taiɪks/，近似粤语“胎益士”）
 
 #### 居住地
 
@@ -19,15 +23,30 @@ taamyjipyjam@outlook.com
 #### 所在网络组织
 
 夜迹小说社 Eve way
+
 中国东方地铁模拟中心中心 East China Metro Simulation Centre
 
-#### bilibili用户名
+#### Github
+
+Tyex2004 [点此前往](https://github.com/Tyex2004/)
+
+#### bilibili
 
 Tyex_ECMSC官方 [点此前往](https://space.bilibili.com/420412587)
 
-#### Facebook用户名
+#### Facebook
 
 Tyex Taam [点此前往](https://www.facebook.com/taamyjipyjam)
+
+#### 发布过的作品
+
+小说《星科》专辑前五说（《糖果星云》《地球·翠星》《蓝宙》）
+
+GBAMSC-广州地铁14号线模拟驾驶游戏Ver.1.0
+
+#### 曾获最高荣誉
+
+第十七届世界少年奥林匹克数学竞赛（中国区）选拔赛银奖
 
 #### 关于这个主题
 
@@ -46,6 +65,8 @@ As for all articles(except reference) are under [CC Attribution-ShareAlike 4.0 I
 
 - - -
 
-#### 了解更多
+#### 关注我
 
-{{ site.email }}
+[Bilibili](http://www.tyex.ink)
+
+[Github](https://github.com/Tyex2004/)
