@@ -4,13 +4,11 @@ title: 关于
 permalink: /about/
 ---
 
-```
 ![图片显示失败](tyexhead.png)
-```
 
 #### 最常用网名
 
-Tyex（读音音标：/'taiɪks/，近似粤语“胎益士”）
+Tyex（读音音标：/'taiɪks/，近似粤语“梯益士”）
 
 #### 居住地
 
