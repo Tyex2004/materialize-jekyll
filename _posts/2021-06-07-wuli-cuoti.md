@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 高一下学期物理错题归纳
-date: 2021-06-05
+date: 2021-06-07
 category: "学习经验"
 tags: [物理,错题归纳]
 author: Tyex

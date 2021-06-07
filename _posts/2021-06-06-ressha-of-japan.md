@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 日本列车席别分类
-date: 2021-06-05
+date: 2021-06-06
 category: "交通科普"
 tags: [铁道]
 author: Tyex
