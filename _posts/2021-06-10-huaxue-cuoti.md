@@ -3,7 +3,7 @@ layout: post
 title: 高一下学期化学错题归纳
 date: 2021-06-10
 category: "学习经验"
-tags: [化学],错题归纳]
+tags: [化学,错题归纳]
 author: Tyex
 comment: true
 ---
