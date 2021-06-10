@@ -62,6 +62,6 @@ comment: true
 
   ⭐⭐解析：
 
-  [![22R4g0.png](https://z3.ax1x.com/2021/06/10/22R4g0.png)](https://imgtu.com/i/22R4g0)
+  ![图片显示失败](https://z3.ax1x.com/2021/06/10/22R4g0.png)
 
   ⭐⭐答案：（1）20N；（2）0.5；（3）15J
