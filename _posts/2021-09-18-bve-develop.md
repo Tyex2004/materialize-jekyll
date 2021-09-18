@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenBVE开发入门与技巧
-date: 2021-06-06
+date: 2021-09-18
 category: "代码编程"
 tags: [游戏开发,代码,教程]
 author: Tyex
