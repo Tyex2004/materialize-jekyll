@@ -8,5 +8,5 @@
 
 - id: tab-test1
   name: 云盘
-  fp: https://drive.tyex.ink/
+  fp: tab/test1.html
   disabled: false
