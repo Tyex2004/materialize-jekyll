@@ -42,6 +42,10 @@ Tyex Taam [点此前往](https://www.facebook.com/taamyjipyjam)
 
 GBAMSC-广州地铁14号线模拟驾驶游戏Ver.1.0
 
+ECMSC-广州地铁8号线模拟驾驶游戏Ver.3.0
+
+ECMSC-深圳地铁4号线模拟驾驶游戏Ver.1.0
+
 #### 曾获最高荣誉
 
 第十七届世界少年奥林匹克数学竞赛（中国区）选拔赛银奖
